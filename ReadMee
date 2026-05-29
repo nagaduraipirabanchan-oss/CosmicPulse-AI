@@ -1,0 +1,138 @@
+# CosmicPulse AI 🚀
+
+## Intelligent Detection and Visualization of Radio Signals
+
+CosmicPulse AI is an AI-powered platform for real-time radio signal detection, analysis, and visualization. It uses machine learning and digital signal processing to classify RF signals and detect anomalies through an interactive dashboard.
+
+---
+
+## Features ✨
+
+- Real-time RF signal analysis
+- AI-based signal classification
+- Spectrum visualization
+- FFT frequency analysis
+- Noise reduction
+- Anomaly detection
+- Interactive dashboard
+
+---
+
+## Technologies Used 🛠️
+
+### Backend
+- Python
+- Flask
+- TensorFlow
+- NumPy
+- Pandas
+- SciPy
+
+### Frontend
+- React.js
+- HTML
+- CSS
+- JavaScript
+
+### AI & DSP
+- Machine Learning
+- Digital Signal Processing
+- FFT Analysis
+
+---
+
+## Project Structure 📁
+
+CosmicPulseAI/
+│
+├── backend/
+├── dashboard/
+├── data/
+├── models/
+├── utils/
+├── app.py
+├── main.py
+├── run.py
+├── requirements.txt
+└── README.md
+
+---
+
+## Installation ⚙️
+
+### Clone Repository
+
+git clone https://github.com/YOUR_USERNAME/CosmicPulseAI.git
+
+cd CosmicPulseAI
+
+### Create Virtual Environment
+
+python -m venv venv
+
+### Activate Environment
+
+Windows:
+
+venv\Scripts\activate
+
+Linux/Mac:
+
+source venv/bin/activate
+
+### Install Dependencies
+
+pip install -r requirements.txt
+
+---
+
+## Run Project ▶️
+
+python app.py
+
+or
+
+python run.py
+
+---
+
+## Deployment 🌐
+
+Backend:
+- Render
+- Railway
+
+Frontend:
+- Vercel
+- Netlify
+
+---
+
+## Applications 📡
+
+- RF spectrum analysis
+- Wireless monitoring
+- Satellite signal tracking
+- Signal anomaly detection
+- AI-powered radio analytics
+
+---
+
+## Future Enhancements 🚀
+
+- SDR integration
+- GPU acceleration
+- Live FFT streaming
+- Cloud analytics
+
+---
+
+## Author 👨‍💻
+
+Developed by Devi N
+
+---
+
+## License 📄
+
+MIT License
